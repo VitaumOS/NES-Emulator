@@ -75,7 +75,7 @@ private:
 	vector<INSTRUCTION>opcode_matrix; //esse demônio aqui
 
 
-private: // Modos de Enderaçamento
+private: // Modos de Enderaçamento a
 
 
 
